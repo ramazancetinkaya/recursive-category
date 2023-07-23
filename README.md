@@ -1,7 +1,7 @@
 # Recursive Category Library
 This library provides functionality to handle hierarchical categories and render them recursively.
 
-## How to use
+## Usage
 
 ```php
 // Usage example:
